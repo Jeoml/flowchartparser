@@ -5,6 +5,7 @@ This repository contains a trained YOLOv8 object detection model fine-tuned usin
 <p align="center">
   <img src="results.png" width="600" alt="Model Performance">
 </p>
+![results](https://github.com/user-attachments/assets/d4e3c31b-dff2-4eec-a8b7-8b865264a890)
 
 ## 🚀 Project Overview
 
