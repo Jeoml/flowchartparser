@@ -2,9 +2,7 @@
 
 This repository contains a trained YOLOv8 object detection model fine-tuned using [Roboflow](https://roboflow.com) to detect and classify various flowchart components such as processes, decisions, input/output blocks, and connectors.
 
-<p align="center">
-  <img src="results.png" width="600" alt="Model Performance">
-</p>![results](https://github.com/user-attachments/assets/50c1c6b7-2aaf-4d9e-86d0-bfbbf7c777cd)
+![results](https://github.com/user-attachments/assets/50c1c6b7-2aaf-4d9e-86d0-bfbbf7c777cd)
 ![download (2)](https://github.com/user-attachments/assets/d5df4225-e414-4ff9-b5ba-0d159231895c)
 ![download (3)](https://github.com/user-attachments/assets/cadfd225-fede-4815-8fe7-e1a265b94cf7)
 ![download (4)](https://github.com/user-attachments/assets/0ab04d24-9855-49d7-bdb2-40152300a00b)
